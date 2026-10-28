@@ -21,6 +21,12 @@ a volunteer data analyst.
 I enjoy solving problems, creating dashboards, and
 making complex information easier to understand.
 
+## New: R Analytics & Case Studies
+
+- **Brazilian E-Commerce — Sales & Customer Insights:** R, dplyr, ggplot2 and Quarto; historical Olist orders, delivery punctuality and customer reviews. [Project](https://github.com/ThiagoSQA/olist-r-analytics) · [Case study](https://github.com/ThiagoSQA/olist-r-analytics/blob/main/CASE_STUDY.md)
+- **Case study collection:** documented problem, methodology, solution alternatives, conclusions, and next steps for SQL and Python projects. [Read here](https://github.com/ThiagoSQA/PortfolioProjects/blob/main/CASE_STUDIES.md)
+- **Learning:** completed the seventh individual course in Google Data Analytics Professional Certificate; certificate program in progress. [Course evidence](https://coursera.org/share/f0b50e0d909e341d663500c5433461b0)
+
 ## Featured Projects
 
 🔹 [COVID-19 Data Exploration](https://github.com/ThiagoSQA/PortfolioProjects/blob/main/COVID%20Data%20Exploration%20Portfolio%20Project.sql)
